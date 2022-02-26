@@ -30,7 +30,7 @@ Like any global conflict, the tension between Russia and Ukraine did not happen 
 
 Ukraine was part of - or occupied by, depending on who is telling the story – the Russian Empire and later the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
 
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine3.png"/></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine3.jpg"/></div>
 
 In 2014, Ukrainians took to the streets and toppled pro-Russian president Viktor Yanukovych, demanding their independence and sovereignty. The Russian government meanwhile has consistently held the position that Ukraine is part of Russia. In 2014, Russian troops invaded Donbas and annexed Crimea, the biggest land grab in Europe since World War II.  
 
@@ -76,7 +76,7 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
   </p>
   <p><h2>Still Stumped? Here Are Some Sources to Follow:</h2></p>
   
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.png"/></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.jpg"/></div>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
  
  <p><span class="appName">Journalists, experts & activists based in Ukraine:</span></p>
