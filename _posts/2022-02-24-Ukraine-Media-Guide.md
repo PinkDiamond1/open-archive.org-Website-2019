@@ -122,4 +122,4 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
   <a href="https://english.nv.ua/" target="_blank">The New Voice of Ukraine</a>, <a href="https://twitter.com/NewVoiceUkraine" target="_blank">Twitter</a><br>
   <a href="https://ukraineworld.org/" target="_blank">Ukraine World</a>, <a href="https://twitter.com/Ukraine_World" target="_blank">Twitter</a><br>
   <a href="http://bunews.com.ua/" target="_blank">Business Ukraine Mag</a>, <a href="https://twitter.com/Biz_Ukraine_Mag" target="_blank">Twitter</a><br>
-  <a href="https://english.nv.ua/" target="_blank"> Hromadske Int.</a>, <a href="https://twitter.com/Hromadske" target="_blank">Twitter</a>
+  <a href="https://en.hromadske.ua/" target="_blank"> Hromadske Int.</a>, <a href="https://twitter.com/Hromadske" target="_blank">Twitter</a>
