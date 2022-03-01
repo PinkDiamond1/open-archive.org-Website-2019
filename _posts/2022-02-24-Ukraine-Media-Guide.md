@@ -7,7 +7,7 @@ permalink: /UkraineMediaGuide
 published: true
 ---
 <i>By <a href="/team#grega">Kelcie Grega</a> and <a href="/team#savchuk">Viktoriia Savchuk</a>, February 24th, 2022</i>
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine1.png"/></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine1.png" alt=""/></div>
 <p><i>Disclaimer: We posted this on Thursday, Feb. 24th and recognize that this is an evolving situation and that the content of this article may not be up to date when you read it.</i></p>
 
 It seems every few minutes there is yet another news alert or push notification about Russia’s attack on Ukraine. Hundreds of thousands of troops are closing in on Ukraine, with explosions reported in Kyiv and other cities. The multi-pronged assault is an act of military aggression that hasn’t been seen in Europe in decades. 
@@ -19,7 +19,7 @@ We spoke to Eastern Europe editor for Global Voices <a href="https://globalvoice
 
 <b>Here are some tools to help you look beyond the headlines: </b>
 
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine2.png"/></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine2.png" alt="Navigating the news around Russia's attack on Ukraine"/></div>
 
 
 <h2>Understand The Historical Context First</h2>
@@ -30,7 +30,7 @@ Like any global conflict, the tension between Russia and Ukraine did not happen 
 
 Ukraine was part of - or occupied by, depending on who is telling the story – the Russian Empire and later the Soviet Union for centuries before regaining independence in 1991 following the collapse of the USSR. There have been tensions between Ukraine’s old ties with Russia and its allegiances with the West ever since. 
 
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine3.jpg"/></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine3.jpg" alt="Timeline of Russia's attack on Ukraine"/></div>
 
 In 2014, Ukrainians took to the streets and toppled pro-Russian president Viktor Yanukovych, demanding their independence and sovereignty. The Russian government meanwhile has consistently held the position that Ukraine is part of Russia. In 2014, Russian troops invaded Donbas and annexed Crimea, the biggest land grab in Europe since World War II.  
 
@@ -76,7 +76,7 @@ Even though Ukraine isn’t part of NATO, U.S. funding and support have played a
   </p>
   <p><h2>Still Stumped? Here Are Some Sources to Follow:</h2></p>
   
-<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.jpg"/></div>
+<div style="max-width: 1024px; text-align: center; margin: 0 auto;"><img style="width: 100%; height: auto; margin: 10px;" src="/images/Ukraine4.jpg" alt="Follow credible sources to navigate the news of Russia's aggression in Ukraine"/></div>
   <p>Ukrainian voices are often missing in news stories about their own country.  We’ve compiled a list of activists, journalists and experts either based in Ukraine, or with extensive knowledge of the conflict. </p>
  
  <p><span class="appName">Journalists, experts & activists based in Ukraine:</span></p>
