@@ -35,15 +35,13 @@ The OpenArchive project is expanding from supporting centralized approaches for 
 <li> Graduate degree in a related field;;</li>
 <li> Experience working with those in Internet environments facing challenges emerging from electricity and bandwidth limitations, censorship, surveillance, and other oppressive, anti-open-internet activities</li>
 
-
-
 </ul>
 </p>
 <p><b>Working With Us:</b>
 <br>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
 </p>
 
-<p><b>If you’d like to be a part of our team, please submit the following:</b>
+<p><b>If you’d like to be a part of our team, please email us at jobs[at]open-archive.org:</b>
  <ul>
    <li> Your resume;</li>
 <li> A cover letter that explains your interest in the position and why you believe you are well-suited for the role;</li>
