@@ -20,12 +20,12 @@ The OpenArchive project is expanding from supporting centralized approaches for 
 <p><b>Required skills and experience:</b>
     <ul>
 
-<li> Demonstrated ability to plan & execute research including forming questions, collaborating with peers, and publishing results as academic papers, whitepapers, specifications, blog posts, talks or other formats.;</li>
+<li> Demonstrated ability to plan & execute research including forming questions, collaborating with peers, and publishing results as academic papers, whitepapers, specifications, blog posts, talks or other formats;</li>
 <li> Background in mobile application development (Android, iOS);</li>
 <li> Strong verbal and written communication;</li>
 <li> Experience with privacy enhancing technologies (encryption, circumvention, etc.);</li>
 <li> Threat analysis and modeling;</li>
-<li> Peer-to-peer and/or decentralized storage architecture, technology, and platforms.</li>
+<li> Experience working in peer-to-peer and/or decentralized storage architecture, technology, and platforms.</li>
 
 </ul>
 </p>
@@ -41,7 +41,18 @@ The OpenArchive project is expanding from supporting centralized approaches for 
 <br>OpenArchive aims to empower people to have more agency over the long-term preservation, privacy, management, and access to their mobile media. We are working on challenging, but compelling problems at the crux of privacy, usability, and long-term preservation of mobile media. If you are passionate about helping people create secure, robust, personal archives to preserve mobile media, especially media made by historically marginalized communities, or are just interested in making secure archiving tools more usable, we’d love to hear from you.
 </p>
 
-<p><b>If you’d like to be a part of our team, please email us at jobs[at]open-archive.org:</b>
+<p><b>Reporting:</b>
+  <br>This position reports to the OpenArchive Tech Lead.</p>
+  
+  <p><b>Location:</b>
+ <br> OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) is preferred, due to location of key project staff there.</p>
+
+<p><b>Compensation:</b>
+<br>This is a three-year contract position at the rate of $50/hour for 2400 hours over the 3 year period with the bulk of the hours (1600) falling within the first year of the project.
+  
+<p><b>Reporting:</b>
+ 
+<p><b>If you’d like to be a part of our team, please submit the followng to us at jobs[at]open-archive.org:</b>
  <ul>
    <li> Your resume;</li>
 <li> A cover letter that explains your interest in the position and why you believe you are well-suited for the role;</li>
@@ -52,18 +63,7 @@ The OpenArchive project is expanding from supporting centralized approaches for 
  
 <br>
  
-<p><b>Reporting:</b>
-  <br>This position reports to the OpenArchive Tech Lead.</p>
-  
-  <p><b>Location:</b>
- <br> OpenArchive operates as a distributed team, with core staff based on the west and east coasts of the US, and others based in Africa, Latin America, and Europe. The position is virtual through the Covid-19 Pandemic and potentially thereafter, though time zones compatible with the US Pacific Time Zone (GMT-7) is preferred, due to location of key project staff there.
-
-</p>
-
-<p><b>Compensation:</b>
-<br>This is a three-year contract position at the rate of $50/hour for 2400 hours over the 3 year period with the bulk of the hours (1600) falling within the first year of the project.
-  
-  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by March 15th, 2022</b>.
+  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by April 30th, 2022</b>.
   <p>Please submit your application directly to: jobs[at]open-archive.org</p>
   
   <p><i>OpenArchive is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</i></p>
