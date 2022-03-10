@@ -50,7 +50,7 @@ The OpenArchive project is expanding from supporting centralized approaches for 
 <p><b>Compensation:</b>
 <br>This is a three-year contract position at the rate of $50/hour for 2400 hours over the 3 year period with the bulk of the hours (1600) falling within the first year of the project.
   
-<p><b>Reporting:</b>
+<p><b>Application Process:</b>
  
 <p><b>If you’d like to be a part of our team, please submit the followng to us at jobs[at]open-archive.org:</b>
  <ul>
