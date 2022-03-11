@@ -17,7 +17,7 @@ permalink: /team/
   <i>Lead Developer</i>
   <p>Nathan is the Executive Director of <a href="https://guardianproject.info" target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
   
-<a id="esenler"/><b>Alex Esenler</b>
+<a id="anchor-name"><b>Alex Esenler</b></a>
 <br>
   <i>Director of Programs and Operations</i>
   <br>
