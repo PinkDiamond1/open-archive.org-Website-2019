@@ -32,8 +32,8 @@ The OpenArchive project is expanding from supporting centralized approaches for 
 <p><b>Preferred qualifications:</b>
     <ul>
 
-<li> Graduate degree in a related field;;</li>
-<li> Experience working with those in Internet environments facing challenges emerging from electricity and bandwidth limitations, censorship, surveillance, and other oppressive, anti-open-internet activities</li>
+<li> Graduate degree in a related field;</li>
+<li> Experience working with those in Internet environments facing challenges emerging from electricity and bandwidth limitations, censorship, surveillance, and other oppressive, anti-open-internet activities.</li>
 
 </ul>
 </p>
