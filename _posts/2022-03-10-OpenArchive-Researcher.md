@@ -5,6 +5,7 @@ description:
 image:
 permalink: /RJob
 published: true
+tags: job
 ---
 
 <div style="width: 100%; text-align: left;">
