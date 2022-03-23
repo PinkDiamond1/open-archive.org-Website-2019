@@ -11,12 +11,19 @@ permalink: /team/
   <i>Founder and Director</i>
  <br>
 <p>Natalie is an archivist and ethnographer working at the nexus of human rights, design, and technology. She aims to protect and amplify community media by helping organizations better manage, protect, and preserve documentation they create and receive. She consults with human rights-focused organizations worldwide and was a 2019 fellow at Stanford's Digital Civil Society Lab. For the last decade, she shaped initiatives dedicated to improving access to information for social and environmental justice organizations. She holds a Masters from the UC Berkeley School of Information and a Bachelors in International Relations from UC Davis.</p>
-  <a id="freitas"/>
-    <b>Nathan Freitas</b>
-  <br>
-  <i>Lead Developer</i>
-  <p>Nathan is the Executive Director of <a href="https://guardianproject.info" target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
-  
+
+<a id="hess"/>
+  <b>John Hess</b>
+<br>
+<i>Tech Lead</i>
+<p>John is an engineer and data scientist with experience across domains as varied as aerospace, healthcare, and education.  He’s worked on cyber security, privacy, and disinformation as a Berkman Klein Assembly Fellow, led application teams at Google, and most recently became a volunteer EMT near his home in Wisconsin.  He holds Masters degrees in Technology & Policy and Aeronautics & Astronautics from MIT.</p>
+
+<a id="freitas"/>
+  <b>Nathan Freitas</b>
+<br>
+<i>Tech Lead Emeritus</i>
+<p>Nathan is the Executive Director of <a href="https://guardianproject.info" target="_blank">Guardian Project</a> and a Research Fellow at the Berkman Klein Center.</p>
+
 <b>Alex Esenler</b>
 <br>
   <i>Director of Programs and Operations</i>
