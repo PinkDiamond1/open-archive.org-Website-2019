@@ -2,7 +2,7 @@
 layout: page
 title: Work with Us
 description:
-permalink:
+permalink: /work-with-us/
 ---
 <div class="row">
   <div class="6u 12u$(medium)">
