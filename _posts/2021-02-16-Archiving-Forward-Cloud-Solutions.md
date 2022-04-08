@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Archiving Forward - Demystifying the Cloud
-description: Learn about what the benefits of drawbacks of preserving your media in the cloud. 
+description: Learn about what the benefits or drawbacks of preserving your media in the cloud. 
 image: /images/021521_CloudSolutions_Cover.png
 permalink: /ArchivingForward1
 ---
