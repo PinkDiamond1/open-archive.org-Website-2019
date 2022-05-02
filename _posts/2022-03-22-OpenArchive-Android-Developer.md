@@ -77,7 +77,7 @@ tags: job
   To apply, please submit your resume (and optionally a cover letter) to jobs[@]open-archive.org
 </p>
  
-<p>We will consider applications on a rolling basis; priority consideration will be given to those who submit their applications by April 30th, 2022.</p>
+<p>We will consider applications on a rolling basis.</p>
 
 <p>Please submit your application directly to: jobs[at]open-archive.org</p>
 
