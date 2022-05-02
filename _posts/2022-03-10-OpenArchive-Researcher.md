@@ -64,7 +64,7 @@ The OpenArchive project is expanding from supporting centralized approaches for 
  
 <br>
  
-  <p>We will consider applications on a rolling basis; <b>priority consideration will be given to those who submit their applications by April 30th, 2022</b>.
+  <p>We will consider applications on a rolling basis.</p>
   <p>Please submit your application directly to: jobs[at]open-archive.org</p>
   
   <p><i>OpenArchive is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</i></p>
