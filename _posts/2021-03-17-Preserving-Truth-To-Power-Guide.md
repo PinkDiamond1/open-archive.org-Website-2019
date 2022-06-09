@@ -30,7 +30,7 @@ permalink: /PTTPSpring21Guide
 </ul>
 </p>
 <p> <h2><span class="appName">Download:</span></h2>
-<p><a href="https://drive.google.com/file/d/1JLMsgSzn07qolxJCM-jdos6PICV_gjZy/view?usp=sharing" target="_blank">the pdf</a>, <a href="https://drive.google.com/drive/folders/1KYPCTLFV1kmtNnpGlHBSm3Iz3QU88sYb?usp=sharing" target="_blank">the pngs</a>, and shareable media for <a href="https://drive.google.com/drive/folders/1neUY1R50ruVKchaOzomc4aK1PFiZTnGK?usp=sharing" target="_blank">Instagram</a> and <a href="https://drive.google.com/drive/u/2/folders/1gNZPpqMReq6dDZtutzFKanye0icAa8VO=sharing" target="_blank">Twitter</a>.</p>
+<p><a href="https://drive.google.com/file/d/1JLMsgSzn07qolxJCM-jdos6PICV_gjZy/view?usp=sharing" target="_blank">the pdf</a>, <a href="https://drive.google.com/drive/folders/1KYPCTLFV1kmtNnpGlHBSm3Iz3QU88sYb?usp=sharing" target="_blank">the pngs</a>, and shareable media for <a href="https://drive.google.com/drive/folders/1neUY1R50ruVKchaOzomc4aK1PFiZTnGK?usp=sharing" target="_blank">Instagram</a> and <a href="https://drive.google.com/drive/folders/1gNZPpqMReq6dDZtutzFKanye0icAa8VO?usp=sharing" target="_blank">Twitter</a>.</p>
 
 <div class="postDocumentViewer">
 <iframe src="https://drive.google.com/file/d/1JLMsgSzn07qolxJCM-jdos6PICV_gjZy/preview" style="width: 100%; height: 768px;"></iframe></div>
