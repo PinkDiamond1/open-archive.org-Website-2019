@@ -21,10 +21,11 @@ permalink: /PTTPSpring21Guide
 
 <li><b>who</b> our work is for;</li>
 <li><b>what</b> mobile media you want to securely preserve;</li>
-<li><b>when</b> to use span class="appName">Save</span></a>;
+<li><b>when</b> to use span class="appName">Save</span></a>;</li>
+<li><b>where</b> your media goes;</li>
 <li><b>why</b> you need to archive evidence securely;</li>
-<li><b>how</b> you can safely preserve your mobile media;</li>
-<li><b>where</b> your media goes.
+<li><b>how</b> you can safely preserve your mobile media.</li>
+
 
 </ul>
 </p>
