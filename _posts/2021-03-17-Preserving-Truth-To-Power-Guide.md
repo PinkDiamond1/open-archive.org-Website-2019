@@ -25,7 +25,6 @@ permalink: /PTTPSpring21Guide
 <li><b>why</b> you need to archive evidence securely;</li>
 <li><b>how</b> you can safely preserve your mobile media;</li>
 <li><b>where</b> your media goes.
-</li>
 
 </ul>
 </p>
