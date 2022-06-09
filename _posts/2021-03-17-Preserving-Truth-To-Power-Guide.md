@@ -2,7 +2,7 @@
 layout: page
 title: OpenAchive's Guide to Preserving Truth to Power
 description: Learn how to ethically and safely store sensitive mobile media
-image: /images/pttpGuide_Header.png
+image: /images/PTTP_HeaderFNL.jpg
 permalink: /PTTPSpring21Guide
 ---
 
