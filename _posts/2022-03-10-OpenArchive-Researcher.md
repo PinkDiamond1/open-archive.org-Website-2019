@@ -59,9 +59,8 @@ The OpenArchive project is expanding from supporting centralized approaches for 
 <li> A cover letter that explains your interest in the position and why you believe you are well-suited for the role;</li>
 <li> Two references and their contact information (email or phone);</li>
 <li> A link to an example of your relevant work that best represents the competencies outlined here. For instance, you could share a link to a project you owned or managed in the past. Please include a brief description of the work, the problem it solved, challenges and lessons learned, and how it relates to this position;</li>
-   <li> Challenges and lessons-learned, and how it relates to this position; </li>
-<li> Clarification of whether you are interested in the part-time Technical Lead role only, or if you want to do any of the additional development work that is available at the hourly rate as well.</li>
- 
+   
+</ul> 
 <br>
  
   <p>We will consider applications on a rolling basis.</p>
