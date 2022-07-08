@@ -13,7 +13,7 @@ permalink: /PSG
 <div style="width: 100%; text-align: left;">
 <p>Planning on documenting a protest or action in your community? 
 
-<p>OpenArchive’s <a href="https://drive.google.com/file/d/12p4GYH7HUNTz-89vS8DgZxdv4Ypr05WE/view?usp=sharing" target="_blank">U.S. Protest Survival Guide</a> was created with and for citizen reporters, community organizers, and legal observers dedicated to tracking evidence of police violence, far-right extremism, and human rights abuses.</p>
+<p>We created OpenArchive’s <a href="https://drive.google.com/file/d/12p4GYH7HUNTz-89vS8DgZxdv4Ypr05WE/view?usp=sharing" target="_blank">U.S. Protest Survival Guide</a> with and for citizen reporters, community organizers, and legal observers dedicated to tracking evidence of police violence, far-right extremism, and human rights abuses.</p>
 
 <p>In it, we share best practices and harm reduction measures for documenting crucial evidence while also protecting at-risk groups from danger and retraumatization.</p> 
 
