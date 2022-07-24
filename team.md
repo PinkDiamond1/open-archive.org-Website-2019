@@ -95,6 +95,7 @@ Before joining The Intercept, he worked as a staff technologist at the Electroni
 <br>
 <a id="sinders"/><b>Caroline Sinders</b>
 <br>
+<br>
 <p>Caroline is an award winning critical designer, researcher, and artist. For the past few years, she has been examining the intersections of artificial intelligence, intersectional justice, systems design, harm, and politics in digital conversational spaces and technology platforms. She has worked with the United Nations, Amnesty International, IBM Watson, the Wikimedia Foundation, and others. Sinders has held fellowships with the Harvard Kennedy School, Google’s PAIR (People and Artificial Intelligence Research group), Ars Electronica’s AI Lab, the Weizenbaum Institute, the Mozilla Foundation, Pioneer Works, Eyebeam, Ars Electronica, the Yerba Buena Center for the Arts, the Sci Art Resonances program with the European Commission, and the International Center of Photography. Her work has been featured in the Tate Exchange in Tate Modern, the Contemporary Art Center of New Orleans, Telematic Media Arts, Victoria and Albert Museum, MoMA PS1, LABoral, Wired, Slate, Hyperallergic, Clot Magazine, Quartz, the Channels Festival, and others. Sinders holds a Masters from New York University’s Interactive Telecommunications Program.</p>
 
 
