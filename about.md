@@ -9,7 +9,7 @@ permalink: /about/
 
 <p>OpenArchive is dedicated to protecting media freedom by helping eyewitnesses preserve truth to power.  We’ve created a distributed media archiving ecosystem that enables human rights defenders to share, archive, verify, and encrypt their evidentiary media.</p>
 
-  </p>
+
 
 <h2 style="text-align: left;">Vision</h2>
 <p>To create a more just, equitable, and sustainable media ecosystem where people’s history is the primary history.</p>
