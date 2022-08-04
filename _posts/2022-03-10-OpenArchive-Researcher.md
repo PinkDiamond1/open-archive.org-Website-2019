@@ -9,7 +9,8 @@ tags: job
 ---
 
 <div style="width: 100%; text-align: left;">
-<p><h2>OpenArchive is Hiring a Decentralized Storage and Privacy Researcher</h2>
+<p><h2>Decentralized Storage Researcher at OpenArchive
+<br>[Full-time, Contract, Remote]</h2>
 
  
   <p><b>Summary:</b>
